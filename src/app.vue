@@ -1,6 +1,6 @@
 <template>
     <div>
-        <mt-header fixed title="淘宝盗版"></mt-header>
+        <mt-header fixed title="我的淘宝"></mt-header>
         <div class="mainBox">111</div>
         <nav class="mui-bar mui-bar-tab">
 			<a id="defaultTab" class="mui-tab-item mui-active" href="tab-webview-subpage-about.html">
